@@ -11,3 +11,7 @@ Ingresos recaudados de la Municipalidad Distrital de Pucusana en el año 2022 (E
 # Analisis2023COVID
 04.03.2023 - Created Notebook
 Análisis de fallecidos COVID Vs Vacunados al 28.02.2023
+
+# ElectroUcayali
+14.03.2023 - Created Notebook
+Análisis de la facturación de los meses de: Octubre, Noviembre y Diciembre del 2022 y Enero 2023
