@@ -15,3 +15,7 @@ Análisis de fallecidos COVID Vs Vacunados al 28.02.2023
 # ElectroUcayali
 14.03.2023 - Created Notebook
 Análisis de la facturación de los meses de: Octubre, Noviembre y Diciembre del 2022 y Enero 2023
+
+# Accidentes de Tránsito en Carreteras
+07.04.2023 - Created Notebook
+Análisis de accidentes de transito en carreteras del Peru. Periodo: 2021-2022
