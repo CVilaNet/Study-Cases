@@ -19,3 +19,7 @@ Análisis de la facturación de los meses de: Octubre, Noviembre y Diciembre del
 # Accidentes de Tránsito en Carreteras
 07.04.2023 - Created Notebook
 Análisis de accidentes de transito en carreteras del Peru. Periodo: 2021-2022
+
+# HeatMap Changing Pixel Size
+02.10.2023 - Created Notebook
+Analyze a list of 8x8 (pixel resolution of heat map) increasing the image quality resolution
